@@ -6,4 +6,6 @@ int main(void){
 	
 	printf("안녕하세요\n");
 
+	printf("hello World4\n");
+
 }
